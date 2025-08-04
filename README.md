@@ -7,6 +7,38 @@ Sunucuyu derleyip paketliyor, client bağlantısını test ediyor ve gerekli aya
 
 ## 🔧 Bu Reponun İçeriği
 
+## 📚 Komutlar
+
+- Server başlatma (log takibi ile)
+```bash
+.\DedicatedServerServer.exe -log -LogCmds="LogOnlineSession Verbose"
+```
+
+- Opsiyonel: Ek parametrelerle
+```bash
+.\DedicatedServerServer.exe -log -port=7777 -SteamServerName="SUNUCUADI"
+```
+
+- Client başlatma (pencere boyutuyla)
+```bash
+.\DedicatedServerClient.exe -windowed -resx=800 -resy=450
+```
+
+- Şifresiz giriş: 
+```bash
+# Varsayılan Komut:
+open steam.GAMEID:GAMEPORT
+# Örnek:
+open steam.90272158146462723:7777
+```
+- Şifreli giriş: 
+```bash
+# Varsayılan Komut:
+open steam.GAMEID:GAMEPORT?Password=ENTEREDPASSWORD
+# Örnek:
+open steam.90272158146462723:7777?Password=Selam
+```
+
 ### 🧩 Hazırlık ve Yapılandırma
 - Gerekli pluginler, source engine ve örnek içerikler
 - `DefaultEngine.ini` yapılandırması
