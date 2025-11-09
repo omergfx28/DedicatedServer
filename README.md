@@ -1,7 +1,7 @@
-# Unreal Engine Dedicated Server (Steam Destekli)
+# Unreal Engine Dedicated Server
 
-Bu videoda, Unreal Engine için Steam destekli bir **Dedicated Server** kurulumunun nasıl yapıldığını adım adım gösteriyorum.  
-Sunucuyu derleyip paketliyor, client bağlantısını test ediyor ve gerekli ayarları birlikte yapılandırıyoruz.
+Bu depo, Unreal Engine'de Steam destekli, Dedicated Server altyapısını uygulamalı olarak öğrenmek isteyenler için hazırlanmış **hazır bir başlangıç projesidir.**
+Projenin içeriği; sunucu derleme, client bağlantı testi ve Steam entegrasyonu gibi tüm temel adımları kapsamaktadır.
 
 ---
 
