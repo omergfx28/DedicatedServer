@@ -85,5 +85,4 @@ open steam.90272158146462723:7777?Password=Selam
 
 ---
 
-Bu projeyle birlikte kendi Unreal Engine sunucunuzu kurabilir, Steam altyapısıyla çalışan çok oyunculu bir sistem geliştirmeye başlayabilirsiniz.  
-İzlediğiniz ve destek verdiğiniz için teşekkürler! 🙏
+Destek verdiğiniz için teşekkürler! İyi çalışmalar! 🙏
