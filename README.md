@@ -1,12 +1,8 @@
-# Unreal Engine Dedicated Server
-
+## 🔧 Bu Reponun İçeriği
 Bu depo, Unreal Engine'de Steam destekli, Dedicated Server altyapısını uygulamalı olarak öğrenmek isteyenler için hazırlanmış **hazır bir başlangıç projesidir.**
 Projenin içeriği; sunucu derleme, client bağlantı testi ve Steam entegrasyonu gibi tüm temel adımları kapsamaktadır.
 
 ---
-
-## 🔧 Bu Reponun İçeriği
-
 ## 📚 Komutlar
 
 - Server başlatma (log takibi ile)
